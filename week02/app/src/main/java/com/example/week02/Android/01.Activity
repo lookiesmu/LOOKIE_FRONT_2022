@@ -1,0 +1,8 @@
+01. Activity
+- 앱의 한 화면
+- Life Cycle(수명 주기)
+- oncreate : 단 한번만 호출
+ onstart
+- onresume : 다시 호출될 때 하면 작업들 onpause
+- onstop : 화면이 일부 가려졌을 때
+ondestroy

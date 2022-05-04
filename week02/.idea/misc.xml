@@ -5,6 +5,7 @@
       <map>
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2265" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/activity_listener.xml" value="0.6" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/frame_layout.xml" value="0.1" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/imageviews.xml" value="0.4" />
@@ -16,7 +17,7 @@
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/task1.xml" value="0.264" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/task2.xml" value="0.1" />
         <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/task3.xml" value="0.2" />
-        <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/task4.xml" value="0.1" />
+        <entry key="..\:/LOOKIE_FRONT_2022/week02/app/src/main/res/layout/task4.xml" value="0.4" />
       </map>
     </option>
   </component>
